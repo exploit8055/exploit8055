@@ -1,0 +1,22 @@
+chinapress.com.my###floating-breadcrumb
+chinapress.com.my###scroll-up-mywheels-mobile
+google.com###swml
+google.com###main > div.BDGSxf:last-child > div.bLgP0e:last-child
+###scroll-up-fifa-mobile
+###inner-page-1 > div.desktop_hidden_ads:first-child > div.rectangular-ads-frame > div.mobile-pl-wrapper
+###secondary_post_comment_message
+###secondary_post_comment
+###secondary_article
+###R1_M
+###HP_M
+###scroll-up-covid19
+###popup-poll-wrapper-overlay
+###stUuGf
+###PL_M
+###ivsplayer01-container
+###app-promo-wrapper
+###scroll-up-srse
+###scroll-up
+###upal_job_slider
+###ads-promo-banner
+###ads-app-promo-wrapper
